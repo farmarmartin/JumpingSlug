@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sekacka_audio.mp3-f42b3b36788d975174b37a8ca286ea2e.mp3str"
+
+[deps]
+
+source_file="res://audio/sekacka_audio.mp3"
+dest_files=[ "res://.import/sekacka_audio.mp3-f42b3b36788d975174b37a8ca286ea2e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
