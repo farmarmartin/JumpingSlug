@@ -32,3 +32,5 @@ Zvuky z části nahraji pomocí svého headsetu a z části vyrobím v [Chiptone
 Do tvorby hudby jsem se upřímně ještě nepustil
 ## 6. Godot
 Ukázku můžete stáhnout [zde](https://vosassvarnsdorf-my.sharepoint.com/:f:/g/personal/martin_job019_skolavdf_cz/EqrnrmG8dcZIg1Q5mY_vZS0Bk9Nvsr-3Tm0D1iM-hfV2Zw?e=zkxCjR)
+## Baner
+![banner](baner.png)
