@@ -1,0 +1,2 @@
+extends VisibilityEnabler2D
+

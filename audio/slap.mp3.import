@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/slap.mp3-8e329bcec6762c248c5c1a7846d4f597.mp3str"
+
+[deps]
+
+source_file="res://audio/slap.mp3"
+dest_files=[ "res://.import/slap.mp3-8e329bcec6762c248c5c1a7846d4f597.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
